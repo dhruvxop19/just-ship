@@ -1,4 +1,4 @@
-# A website that creates website - AI Powered website builder
+# JustShip - A website that creates website 
 
 A full-stack web application that generates complete websites from natural language prompts using Google's Gemini AI. This is a clone of the popular Bolt.new platform, featuring real-time code generation, live preview, and an integrated development environment.
 
